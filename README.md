@@ -1,0 +1,2 @@
+# docs
+OpenGD Documentation
